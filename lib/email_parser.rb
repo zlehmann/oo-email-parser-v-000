@@ -19,7 +19,7 @@ class EmailParser
         end
       end
     end
-
+    output
   end
 
 end
